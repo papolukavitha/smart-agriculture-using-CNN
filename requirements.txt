@@ -1,0 +1,10 @@
+Automatic Street Light Controller
+Tools/Technologies: Arduino Uno, LDR Sensor, Relay Module, Embedded C
+
+Designed and developed a system to automatically control street lights based on ambient light using an LDR and Arduino.
+
+Programmed the microcontroller to detect light intensity and toggle the relay module for switching lights ON/OFF.
+
+Achieved energy efficiency and eliminated the need for manual operation.
+
+Gained hands-on experience in sensor integration and real-time hardware control.
